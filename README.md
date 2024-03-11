@@ -1,4 +1,4 @@
-##Pymaceuticals##
+Pymaceuticals
 
 This challenege focused on cleaning data for a research study, creating several types of plots, and providing an anaylsis. 
 The study was conducted to analysis the effectiveness of drug treatments reudcing the size of tumors in mice.
@@ -11,3 +11,4 @@ During this challenge I used several sources.
 - Adjusting outlier visuals in boxplot: https://stackoverflow.com/questions/43342564/flier-colors-in-boxplot-with-matplotlib
 - Tutor helped clean code in for loop
 - Also, tutor provided guidance in completing quartiles for outliers and creating a boxplot.
+- Used Xpert Learning Assistant to adjust coding for bar chart using plt. Order of drug regimens has been corrected.
